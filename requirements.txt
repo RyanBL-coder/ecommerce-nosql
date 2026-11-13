@@ -1,0 +1,6 @@
+streamlit==1.39.0
+pymongo==4.9.2
+dnspython==2.7.0
+redis==5.1.1
+neo4j==5.25.0
+python-dotenv==1.0.1

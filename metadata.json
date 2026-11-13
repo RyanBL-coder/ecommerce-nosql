@@ -1,0 +1,6 @@
+{
+  "name": "Vértice Tech — Hardware & Periféricos",
+  "description": "Loja virtual especializada em monitores, periféricos e hardware de alta performance com recomendações personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
